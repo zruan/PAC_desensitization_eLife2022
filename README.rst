@@ -15,13 +15,13 @@ Freely distributed under the BSD 2-clause license (see LICENSE)
 Requirement
 -----------
 
-Python
-Matplotlib
-Seaborn
+* Python
+* Matplotlib
+* Seaborn
 
-## Getting started
+Getting started
+---------------
 
 Simply enter each folder and type
-```
-python plot.py
-```
+
+    python plot.py
